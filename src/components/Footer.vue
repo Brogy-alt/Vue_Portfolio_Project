@@ -17,9 +17,9 @@ footer {
 }
 
 /* Footer */
-.footer{
+/* .footer{
     padding: 12px 20px;
-}
+} */
 .footer .lead{
     text-align: center;
     margin-left: 15px;

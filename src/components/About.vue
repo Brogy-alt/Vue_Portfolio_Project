@@ -53,7 +53,6 @@ section {
 .aboutme {
     padding-bottom: 0rem;
 }
- 
-
-
+    
+    
 </style>

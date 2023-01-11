@@ -3,6 +3,7 @@
    <About/>
    <Resume/>
    <projects/>
+   <Skills/>
    <Footer/>
    
   
@@ -13,6 +14,7 @@ import Footer from '@/components/Footer.vue'
 import About from '@/components/About.vue'
 import Resume from '@/components/Resume.vue'
 import Projects from '@/components/Projects.vue'
+import Skills from '@/components/Skills.vue'
 
 export default {
   name: 'HomeView',
@@ -21,6 +23,7 @@ export default {
     About,
     Resume,
     Projects,
+    Skills,
     Footer
   }
 }

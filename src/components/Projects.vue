@@ -1,94 +1,94 @@
 <template>
     <section class="container">
+    <!--Project-->
     
-        <div class="card-group">
-  <div class="card">
-    <img src="https://mdbcdn.b-cdn.net/img/new/standard/city/041.webp" class="card-img-top"
-      alt="Hollywood Sign on The Hill" />
-    <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">
-        This is a wider card with supporting text below as a natural lead-in to
-        additional content. This content is a little bit longer.
-      </p>
-      <p class="card-text">
-        <small class="text-muted">Last updated 3 mins ago</small>
-      </p>
-    </div>
-  </div>
-  <div class="card">
-    <img src="https://mdbcdn.b-cdn.net/img/new/standard/city/042.webp" class="card-img-top"
-      alt="Palm Springs Road" />
-    <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.
-      </p>
-      <p class="card-text">
-        <small class="text-muted">Last updated 3 mins ago</small>
-      </p>
-    </div>
-  </div>
-  <div class="card">
-    <img src="https://mdbcdn.b-cdn.net/img/new/standard/city/043.webp" class="card-img-top"
-      alt="Los Angeles Skyscrapers" />
-    <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">
-        This is a wider card with supporting text below as a natural lead-in to
-        additional content. This card has even longer content than the first to show
-        that equal height action.
-      </p>
-      <p class="card-text">
-        <small class="text-muted">Last updated 3 mins ago</small>
-      </p>
-    </div>
-  </div>
-</div>
+        <h2> Below are the projects that I have worked on : </h2>
 
-<div class="card-group">
-  <div class="card">
-    <img src="https://mdbcdn.b-cdn.net/img/new/standard/city/041.webp" class="card-img-top"
-      alt="Hollywood Sign on The Hill" />
-    <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">
-        This is a wider card with supporting text below as a natural lead-in to
-        additional content. This content is a little bit longer.
-      </p>
-      <p class="card-text">
-        <small class="text-muted">Last updated 3 mins ago</small>
-      </p>
-    </div>
-  </div>
-  <div class="card">
-    <img src="https://mdbcdn.b-cdn.net/img/new/standard/city/042.webp" class="card-img-top"
-      alt="Palm Springs Road" />
-    <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.
-      </p>
-      <p class="card-text">
-        <small class="text-muted">Last updated 3 mins ago</small>
-      </p>
-    </div>
-  </div>
-  <div class="card">
-    <img src="https://mdbcdn.b-cdn.net/img/new/standard/city/043.webp" class="card-img-top"
-      alt="Los Angeles Skyscrapers" />
-    <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">
-        This is a wider card with supporting text below as a natural lead-in to
-        additional content. This card has even longer content than the first to show
-        that equal height action.
-      </p>
-      <p class="card-text">
-        <small class="text-muted">Last updated 3 mins ago</small>
-      </p>
-    </div>
-  </div>
-</div>
-</section>
+        <div class="row g-5">
+            <!-- image 1 & links -->
+            <div class="col-11 col-md-4">
+                <!-- <i class="fa-solid fa-link"></i>Repair-website</a> -->
+                <img class="images" src="https://i.postimg.cc/2yB67Kj7/Screenshot1.jpghttps://i.postimg.cc/2yB67Kj7/Screenshot1.jpg" style="max-width: 100%; height: auto;"
+                    alt="image1" loading="lazy">
+
+                <a href="https://github.com/Brogy-alt/repairwebsite.git" target="_blank"
+                    class="btn btn-dark btn-lg active" role="button" aria-pressed="true">Github</a>
+
+                <a href="https://brogans-repair-site.netlify.app/" target="_blank" class="btn btn-dark btn-lg active"
+                    role="button" aria-pressed="true">Netlify</a>
+            </div>
+
+            <!-- image 2 & links -->
+            <div class="col-11 col-md-4">
+                <!-- <i class="fa-solid fa-link"></i>Mini
+                        project</a> -->
+                <img class="images" src="https://i.postimg.cc/25chHgYs/Screenshot2.jpg" style="max-width: 100%; height: auto;"
+                    alt="image2" loading="lazy">
+
+                <a href="https://github.com/Brogy-alt/Mini_project.git" target="_blank"
+                    class="btn btn-dark btn-lg active" role="button" aria-pressed="true">Github</a>
+
+                <a href="https://brogans-portfolio-practice.netlify.app/" target="_blank"
+                    class="btn btn-dark btn-lg active" role="button" aria-pressed="true">Netlify</a>
+            </div>
+
+            <!-- image 3 & links -->
+            <div class="col-11 col-md-4">
+                <!-- <i class="fa-solid fa-link"></i>Practice1</a> -->
+                <img class="images" src="https://i.postimg.cc/15G6x8Pc/Screenshot3.jpg" style="max-width: 100%; height: auto; "
+                    alt="image3" loading="lazy">
+
+                <a href="https://github.com/Brogy-alt/Mini_project.git" target="_blank"
+                    class="btn btn-dark btn-lg active" role="button" aria-pressed="true">Github</a>
+
+                <a href="https://brogans-ecommerce.netlify.app/" target="_blank" class="btn btn-dark btn-lg active"
+                    role="button" aria-pressed="true">Netlify</a>
+            </div>
+        </div>
+        <br>
+        <div class="row g-5">
+            <!-- image 1 & links -->
+            <div class="col-11 col-md-4">
+                <!-- <i class="fa-solid fa-link"></i>Repair-website</a> -->
+                <img class="images" src="https://i.postimg.cc/2yB67Kj7/Screenshot1.jpghttps://i.postimg.cc/2yB67Kj7/Screenshot1.jpg" style="max-width: 100%; height: auto;"
+                    alt="image1" loading="lazy">
+
+                <a href="https://github.com/Brogy-alt/repairwebsite.git" target="_blank"
+                    class="btn btn-dark btn-lg active" role="button" aria-pressed="true">Github</a>
+
+                <a href="https://brogans-repair-site.netlify.app/" target="_blank" class="btn btn-dark btn-lg active"
+                    role="button" aria-pressed="true">Netlify</a>
+            </div>
+
+            <!-- image 2 & links -->
+            <div class="col-11 col-md-4">
+                <!-- <i class="fa-solid fa-link"></i>Mini
+                        project</a> -->
+                <img class="images" src="https://i.postimg.cc/25chHgYs/Screenshot2.jpg" style="max-width: 100%; height: auto;"
+                    alt="image2" loading="lazy">
+
+                <a href="https://github.com/Brogy-alt/Mini_project.git" target="_blank"
+                    class="btn btn-dark btn-lg active" role="button" aria-pressed="true">Github</a>
+
+                <a href="https://brogans-portfolio-practice.netlify.app/" target="_blank"
+                    class="btn btn-dark btn-lg active" role="button" aria-pressed="true">Netlify</a>
+            </div>
+
+            <!-- image 3 & links -->
+            <div class="col-11 col-md-4">
+                <!-- <i class="fa-solid fa-link"></i>Practice1</a> -->
+                <img class="images" src="https://i.postimg.cc/15G6x8Pc/Screenshot3.jpg" style="max-width: 100%; height: auto; "
+                    alt="image3" loading="lazy">
+
+                <a href="https://github.com/Brogy-alt/Mini_project.git" target="_blank"
+                    class="btn btn-dark btn-lg active" role="button" aria-pressed="true">Github</a>
+
+                <a href="https://brogans-ecommerce.netlify.app/" target="_blank" class="btn btn-dark btn-lg active"
+                    role="button" aria-pressed="true">Netlify</a>
+            </div>
+        </div>
+        <br>
+    </section>
 
 </template>
 <script>
@@ -98,6 +98,27 @@ export default {
 }
 </script>
 <style>
+
+.grid {
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+
+}
+
+/* project section - images */
+.images {
+    border-radius: 5%;
+    padding-top: 2rem;
+    width: 390px;
+
+}
+
+
+section {
+    padding: 10px 0rem;
+   
+}
 
 
     
