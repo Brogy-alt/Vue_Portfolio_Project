@@ -31,16 +31,8 @@ footer {
   color: #2c3e50;
 }
 
-nav {
-  padding: 30px;
-}
-
-nav a {
-  font-weight: bold;
-  color: #2c3e50;
-}
-
-nav a.router-link-exact-active {
-  color: #42b983;
+body{
+  background-image: radial-gradient(circle, #000000a8 0%, #1f1e1e 100%);
+  color: #FDF7FF;
 }
 </style>

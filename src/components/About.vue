@@ -1,5 +1,5 @@
 <template>
-    <section class="container">
+    <body>
  
     
         <!-- col for multiple items on this page -->
@@ -33,8 +33,7 @@
                 </div>
             </div>
         </div>
-   
-    </section>
+</body>
 </template>
 <script>
 export default {
@@ -53,6 +52,8 @@ section {
 .aboutme {
     padding-bottom: 0rem;
 }
+
+
     
     
 </style>

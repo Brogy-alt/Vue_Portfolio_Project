@@ -1,8 +1,7 @@
 <template>
    <NavBar/>
-   <About/>
-   <Resume/>
-   <Skills/>
+   <Testimonials/>
+   <Projects/>
    <Footer/>
    
   
@@ -10,21 +9,17 @@
 <script>
 import NavBar from '@/components/NavBar.vue'
 import Footer from '@/components/Footer.vue'
-import About from '@/components/About.vue'
-import Resume from '@/components/Resume.vue'
-import Skills from '@/components/Skills.vue'
-
+import Projects from '@/components/Projects.vue'
+import Testimonials from '@/components/Testimonials.vue'
 
 export default {
   name: 'HomeView',
   components: {
     NavBar,
-    About,
-    Resume,
-    Skills,
+    Projects,
+    Testimonials,
     Footer
   }
 }
 
 </script>
-

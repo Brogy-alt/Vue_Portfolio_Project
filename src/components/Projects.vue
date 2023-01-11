@@ -1,14 +1,11 @@
 <template>
-    <section class="container">
-    <!--Project-->
-    
+    <!-- <section class="container">
+        
         <h2> Below are the projects that I have worked on : </h2>
 
         <div class="row g-5">
-            <!-- image 1 & links -->
             <div class="col-11 col-md-4">
-                <!-- <i class="fa-solid fa-link"></i>Repair-website</a> -->
-                <img class="images" src="https://i.postimg.cc/2yB67Kj7/Screenshot1.jpghttps://i.postimg.cc/2yB67Kj7/Screenshot1.jpg" style="max-width: 100%; height: auto;"
+                <img class="images" src="" style="max-width: 100%; height: auto;"
                     alt="image1" loading="lazy">
 
                 <a href="https://github.com/Brogy-alt/repairwebsite.git" target="_blank"
@@ -18,10 +15,8 @@
                     role="button" aria-pressed="true">Netlify</a>
             </div>
 
-            <!-- image 2 & links -->
             <div class="col-11 col-md-4">
-                <!-- <i class="fa-solid fa-link"></i>Mini
-                        project</a> -->
+                
                 <img class="images" src="https://i.postimg.cc/25chHgYs/Screenshot2.jpg" style="max-width: 100%; height: auto;"
                     alt="image2" loading="lazy">
 
@@ -32,10 +27,8 @@
                     class="btn btn-dark btn-lg active" role="button" aria-pressed="true">Netlify</a>
             </div>
 
-            <!-- image 3 & links -->
             <div class="col-11 col-md-4">
-                <!-- <i class="fa-solid fa-link"></i>Practice1</a> -->
-                <img class="images" src="https://i.postimg.cc/15G6x8Pc/Screenshot3.jpg" style="max-width: 100%; height: auto; "
+                <img class="images" src="..." style="max-width: 100%; height: auto; "
                     alt="image3" loading="lazy">
 
                 <a href="https://github.com/Brogy-alt/Mini_project.git" target="_blank"
@@ -47,9 +40,7 @@
         </div>
         <br>
         <div class="row g-5">
-            <!-- image 1 & links -->
             <div class="col-11 col-md-4">
-                <!-- <i class="fa-solid fa-link"></i>Repair-website</a> -->
                 <img class="images" src="https://i.postimg.cc/2yB67Kj7/Screenshot1.jpghttps://i.postimg.cc/2yB67Kj7/Screenshot1.jpg" style="max-width: 100%; height: auto;"
                     alt="image1" loading="lazy">
 
@@ -60,10 +51,8 @@
                     role="button" aria-pressed="true">Netlify</a>
             </div>
 
-            <!-- image 2 & links -->
             <div class="col-11 col-md-4">
-                <!-- <i class="fa-solid fa-link"></i>Mini
-                        project</a> -->
+                        
                 <img class="images" src="https://i.postimg.cc/25chHgYs/Screenshot2.jpg" style="max-width: 100%; height: auto;"
                     alt="image2" loading="lazy">
 
@@ -74,9 +63,9 @@
                     class="btn btn-dark btn-lg active" role="button" aria-pressed="true">Netlify</a>
             </div>
 
-            <!-- image 3 & links -->
+  
             <div class="col-11 col-md-4">
-                <!-- <i class="fa-solid fa-link"></i>Practice1</a> -->
+                
                 <img class="images" src="https://i.postimg.cc/15G6x8Pc/Screenshot3.jpg" style="max-width: 100%; height: auto; "
                     alt="image3" loading="lazy">
 
@@ -88,14 +77,15 @@
             </div>
         </div>
         <br>
-    </section>
+    </section> -->
 
 </template>
 <script>
 export default {
-    name : 'Project'
-    
+    name : 'Project', 
 }
+
+
 </script>
 <style>
 
@@ -106,7 +96,6 @@ export default {
 
 }
 
-/* project section - images */
 .images {
     border-radius: 5%;
     padding-top: 2rem;
@@ -114,11 +103,11 @@ export default {
 
 }
 
-
 section {
     padding: 10px 0rem;
    
 }
+
 
 
     

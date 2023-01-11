@@ -17,9 +17,10 @@
                             <a class="nav-link active" aria-current="home-nav" href="/"> <i class="fa-sharp fa-solid fa-house-user"></i> Home</a>
                         </li>
                         <a class="nav-link active" aria-current="aboutme-nav" href="/about"> 
- 
- 
                             <i class="fa-sharp fa-solid fa-folder"></i>About me</a>
+
+                            <a class="nav-link active" aria-current="aboutme-nav" href="/projects"> 
+                            <i class="fa-sharp fa-solid fa-folder"></i>Projects</a>
                         
                         <a class="nav-link active" aria-current="contact-nav" href="/contact"> <i class="fa-solid fa-phone"></i>Contact & Socials</a>
                         

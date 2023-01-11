@@ -6,8 +6,8 @@
             <div class="row d-flex flex-column flex-md-row ">
                 <div class=" home-text col">
                     <h1 class="name lead ">Brogan Gys</h1>
-                    <p class="lead">Aspiring developer</p>
-                    <p class="lead">Music producer</p>
+                    <h5 class="lead">Aspiring developer</h5>
+                    <h5 class="lead">Music producer</h5>
                 </div>
                 <div class="col">
                     <img src="https://i.postimg.cc/Zn4hrwKW/C11-Brogan-Gys-3.jpg" style="max-width: 60%; height: 50;"
@@ -26,8 +26,6 @@
                 </div>
             </div>
         </section>
-
-
 
     </main>
 </template>
@@ -53,18 +51,8 @@ export default {
     padding-top: 10%
     /* margin-top: 10rem; */
 }
-
-head,
-main,
-footer header,
-body,
-footer {
-    min-width: 100%;
-}
-
 body {
-    background-color: rgba(0, 0, 0, 0.8);
-    color: #FDF7FF;
+   
     font-size: 19px;
     font-family: 'Hind Vadodara', sans-serif;
     /* padding: 5rem 1rem; */
@@ -75,12 +63,18 @@ body {
     font-weight: 700;
 }
 
+h5{
+    color: #FDF7FF;
+}
+
 .name {
     font-size: 80px;
     color: #FDF7FF;
     display: flex;
     margin-right: 2rem
 }
+
+
 
 main {
 
